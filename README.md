@@ -27,7 +27,6 @@ The template includes:
 ```shell
 python -m venv .venv
 .venv\Scripts\activate
-# Just once
 pip install -U sphinx myst-parser sphinx-book-theme
 # Command to install MikTeX
 ```
@@ -58,7 +57,7 @@ apt install texlive-full latexmk
 
 ## Build instructions
 
-### Linux
+### Linux Build instructions
 
 Run these commands from the project root folder.
 
